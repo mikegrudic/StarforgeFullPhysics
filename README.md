@@ -19,7 +19,7 @@ Magnetic field: 1 Tesla
 
 Hence e.g. your unit of time would be 1 parsec / 1m/s ~ 1 Gyr
 
-General documentation on the formatt of GIZMO snapshots is available here: http://www.tapir.caltech.edu/~phopkins/Site/GIZMO_files/gizmo_documentation.html
+General documentation on the format of GIZMO snapshots is available here: http://www.tapir.caltech.edu/~phopkins/Site/GIZMO_files/gizmo_documentation.html
 
 **PartType5/BH_AccretionLength**: Radius within which gas cells are considered for accretion and local feedback injection.
 

@@ -5,7 +5,7 @@ If you found this data useful for your study please cite the paper: https://arxi
 
 # [Sink Particle Data](http://www.starforge.space/data/stars_M2e4_fullphysics.tar.gz)
 
-Contains all raw sink particle data from the simulations, in the form of standard GIZMO hdf5 snapshots but with gas data removed. 
+Contains all raw sink particle data from the simulation in the paper, in the form of standard GIZMO hdf5 snapshots but with gas data removed. 
 
 Unless otherwise specified, the system of units adopted for these data is as follows:
 Mass: 1 solar mass

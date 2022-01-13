@@ -8,10 +8,16 @@ If you found this data useful for your study please cite the paper: https://arxi
 Contains all raw sink particle data from the simulation in the paper, in the form of standard GIZMO hdf5 snapshots but with gas data removed. 
 
 Unless otherwise specified, the system of units adopted for these data is as follows:
+
 Mass: 1 solar mass
+
 Length: 1 parsec
+
 Speed: 1 m/s
+
 Magnetic field: 1 Tesla
+
+Hence e.g. your unit of time would be 1 parsec / 1m/s ~ 1 Gyr
 
 General documentation on the formatt of GIZMO snapshots is available here: http://www.tapir.caltech.edu/~phopkins/Site/GIZMO_files/gizmo_documentation.html
 

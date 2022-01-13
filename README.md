@@ -16,7 +16,9 @@ Magnetic field: 1 Tesla
 General documentation on the formatt of GIZMO snapshots is available here: http://www.tapir.caltech.edu/~phopkins/Site/GIZMO_files/gizmo_documentation.html
 
 **PartType5/BH_AccretionLength**: Radius within which gas cells are considered for accretion and local feedback injection.
+
 **PartType5/BH_Mass**: Mass of the actual star or protostar that lives in the sink.
+
 **PartType5/BH_Mass_AlphaDisk**: Mass of the accretion reservoir contained within the sink (note: this does not represent a physical disk mass!)
 **PartType5/BH_Mdot**: Stellar accretion rate: units are 1 solar mass * (1m/s) / (1pc) ~ solar mass Gyr^-1
 **/PartType5/BH_NProgs**: Not used in STARFORGE simulations.

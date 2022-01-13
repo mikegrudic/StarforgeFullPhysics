@@ -1,9 +1,9 @@
 # StarforgeFullPhysics
-Repository for material associated with Grudic et al. 2022 STARFORGE full feedback physics paper. This repository may be updated over time in response to community requests.
+Repository containing files and links to material associated with Grudic et al. 2022 STARFORGE full feedback physics paper. This repository may be updated over time in response to community requests.
 
-If you found this data useful please cite https://arxiv.org/abs/2201.00882
+If you found this data useful please cite the paper: https://arxiv.org/abs/2201.00882
 
-# stars.tar.gz
+# [Sink Particle Data](http://www.starforge.space/stars.tar.gz)
 
 Contains all raw sink particle data from the simulations, in the form of standard GIZMO hdf5 snapshots but with gas data removed. 
 

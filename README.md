@@ -3,7 +3,7 @@ Repository containing files and links to material associated with Grudic et al. 
 
 If you found this data useful for your study please cite the paper: https://arxiv.org/abs/2201.00882
 
-# [Sink Particle Data](http://www.starforge.space/data/stars_M2e4_fullphysics.tar.gz)
+# [Sink Particle Data (download here)](http://www.starforge.space/data/stars_M2e4_fullphysics.tar.gz)
 
 Contains all raw sink particle data from the simulation in the paper, in the form of standard GIZMO hdf5 snapshots but with gas data removed. 
 

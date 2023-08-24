@@ -2,7 +2,9 @@
 Repository containing files and links to material associated with Grudic et al. 2022 STARFORGE full feedback physics paper. This repository may be updated over time in response to community feedback.
 
 If you found this data useful for your study please cite the paper: https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..216G
-# [Sink Particle Data (download here)](http://www.starforge.space/data/stars_M2e4_fullphysics.tar.gz)
+# [Sink Particle Data from Original Simulation (download here)](http://www.starforge.space/data/stars_M2e4_fullphysics.tar.gz)
+
+# [Sink Particle Data from latest Version (updated Aug 24 2023)]{https://data.obs.carnegiescience.edu/starforge/M2e4_R10_B0.01_v1.2_star_data.tar.gz)
 
 Contains all raw sink particle data from the simulation in the paper, in the form of standard GIZMO hdf5 snapshots but with gas data removed. 
 
